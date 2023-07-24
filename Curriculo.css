@@ -19,8 +19,7 @@ img{
     background-color: #F8FFF4;
 }
 
-h2{
-    background-color: #474350;
+h2{;
     padding-left: 25px;
     height: 10 auto;
     border-radius: 5px;
@@ -29,7 +28,6 @@ h2{
 }
 
 p, ul{
-   background-color: #F8FFF4;
    border-radius: 5px;
    padding-left: 75px;
    border: 10px;
