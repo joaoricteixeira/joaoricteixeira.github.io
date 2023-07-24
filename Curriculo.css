@@ -1,0 +1,41 @@
+.container{
+  max-width: 100%;
+  display: inline;
+}
+
+img{
+    border-radius: 15px;
+    margin-top: 25px;
+}
+
+.trial, .trial h2{
+    display: inline-block;
+    padding-bottom: 5px;
+    position: relative;
+    padding-left: 10px;
+    height: 0px;
+    color: black;
+    margin: 0px;
+    background-color: #F8FFF4;
+}
+
+h2{
+    background-color: #474350;
+    padding-left: 25px;
+    height: 10 auto;
+    border-radius: 5px;
+    margin: 10px auto;
+    color: Ivory;
+}
+
+p, ul{
+   background-color: #F8FFF4;
+   border-radius: 5px;
+   padding-left: 75px;
+   border: 10px;
+   margin: 0 auto;
+}
+
+h3, h4{
+    padding-left: 25px;
+}
